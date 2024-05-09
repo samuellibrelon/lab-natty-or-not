@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação sobre o uso de Inteligência Artificial aplicada à detecção de doenças autoimunes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O uso da Inteligência Artificial na detecção de doenças autoimunes representa um avanço significativo na medicina diagnóstica. Doenças autoimunes são condições complexas, muitas vezes difíceis de diagnosticar, onde o sistema imunológico do corpo ataca erroneamente seus próprios tecidos. A IA oferece métodos e algoritmos poderosos para analisar grandes conjuntos de dados médicos, identificar padrões sutis e ajudar os médicos a fazer diagnósticos mais precisos e precoces. Isso pode levar a tratamentos mais eficazes e melhores resultados para os pacientes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Bing Copilot Images](https://www.bing.com/images/create)** para criar a arte visual da apresentação;
+- IA Generativa **[Gamma](https://gamma.app/)** para criação e edição da apresentação;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei o processo solicitando ao ChatGPT a geração dos principais tópicos para a apresentação. Em seguida, utilizei o Bing Copilot Imagens para gerar e selecionar as imagens relevantes para ilustrar os conceitos abordados. Com os tópicos e imagens em mãos, desenvolvi a apresentação de slides no Gamma app, integrando os elementos fornecidos pelo ChatGPT para criar uma exposição clara e impactante sobre o uso da Inteligência Artificial na detecção de doenças autoimunes.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em uma excelente apresentação sobre um tema extremamente útil para a humanidade. Contendo informações importantes e de fácil compreensão para a população em geral.
+link do projeto: https://gamma.app/docs/Introducao-a-Inteligencia-Artificial-IA-e-suas-aplicacoes-na-area-65hefj3p5tuyxny
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Embora criar algo "natty" com IA possa representar um desafio, a combinação de técnicas de geração de conteúdo por IA com a curadoria humana e a criatividade pode resultar em resultados surpreendentemente naturais e impactantes. O importante é encontrar um equilíbrio entre a automação proporcionada pela IA e a intervenção humana para garantir que o resultado final atenda às expectativas de autenticidade e qualidade.
